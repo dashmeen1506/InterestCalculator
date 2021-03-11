@@ -1,1 +1,0 @@
-# InterestCalculator made in Java
